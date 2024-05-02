@@ -1,0 +1,57 @@
+{
+  "question":[
+    {"qus":"The _______ is the one in which the primary key of one relation is used as a normal attribute in another relation.",
+    "option":{
+        "a":"Referential relation"
+    ,
+    
+        "b":"Referencing relation"
+    ,
+    
+        "c":"Referenced relation"
+    ,
+    
+        "d":"Referred relation"
+    
+    },
+"ans":"Referenced relation"     
+},
+{"qus":"_______ is not a category of SQL command",
+"option":{
+    "a":"TCL"
+,
+
+    "b":"SCL"
+,
+
+    "c":"DCL"
+,
+
+    "d":"DDL"
+
+},
+"ans":"SCL"   
+
+
+},
+{"qus":"Which SQL keyword is used to sort the result set?",
+"option":{
+    "a":"ORDER BY"
+,
+
+    "b":"SORT"
+,
+
+    "c":"ORDER"
+,
+
+    "d":"SORT BY"
+
+},
+"ans":"ORDER BY"   
+
+
+}
+  ]
+   
+}
